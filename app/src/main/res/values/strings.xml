@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Refuel</string>
+    <string name="refuel">REFUEL</string>
+
+
+    <string-array name="FuelsAvalable">
+        <item>Select Fuels</item>
+        <item>Petrol</item>
+        <item>Diesel</item>
+        <item>Petrol and Diesel</item>
+    </string-array>
+
+    <string-array name="Capacity_count">
+        <item>Select Fuels</item>
+        <item>1 lit</item>
+        <item>2 lit</item>
+        <item>5 lit</item>
+        <item>10 lit</item>
+    </string-array>
+
+    <string-array name="Fuel_needed">
+        <item>Select Fuels</item>
+        <item>Petrol</item>
+        <item>Diesel</item>
+    </string-array>
+
+
+</resources>
